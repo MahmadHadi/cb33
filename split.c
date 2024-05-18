@@ -7,5 +7,8 @@ void main() {
 
     int first, second;
 
+    first = num / 10; // first = 5
+    second = num % 10; // second = 6 
+
     printf("%d, %d ", first, second);
 }

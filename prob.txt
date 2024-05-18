@@ -1,0 +1,8 @@
+18 may
+    split 3 digit num
+    split 4 digit num
+    user - input - single digit num 
+        input = 1 -> print ('one')
+        input = 5 -> print ('five')
+    split - input = 56 -> print(5, 6) -> print('five', 'six')
+    pseudo code - dry run
