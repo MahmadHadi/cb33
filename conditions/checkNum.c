@@ -14,8 +14,8 @@ void main()
         printf("Num1 != num2 \n");
     }
 
-    if (1 == 1)
-    {
-        printf("Num1 <= num2 \n");
-    }
+    // if (1 == 1)
+    // {
+    //     printf("Num1 <= num2 \n");
+    // }
 }

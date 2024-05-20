@@ -8,11 +8,18 @@ void main()
     printf("Enter your age : ");
     scanf("%d", &age);
 
-    if (age >= 18) {
-        printf("Hello teen \n");
-    }
+    // if (age >= 18) {
+    //     printf("Hello teen \n");
+    // }
+
+    // if (age < 18) {
+    //     printf("Hello kid \n");
+    // }
 
     if (age < 18) {
         printf("Hello kid \n");
+    } else {
+        printf("Hello teen \n");  
     }
 }
+
