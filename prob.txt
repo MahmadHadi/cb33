@@ -6,3 +6,7 @@
         input = 5 -> print ('five')
     split - input = 56 -> print(5, 6) -> print('five', 'six')
     pseudo code - dry run
+
+21 may 
+    // * greatest of two nums 
+    // 10, 2, 3 -> 10
