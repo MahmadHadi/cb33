@@ -10,3 +10,13 @@
 21 may 
     // * greatest of two nums 
     // 10, 2, 3 -> 10
+22 may  
+    dry run greatest of two nums
+    greatest of two nums using logical operators 
+
+    user -> input (char) 
+        input = 0 - 9 -> print "number" 
+        input = a - z -> "lower case" 
+        input = A - Z -> "upper case" 
+        else 
+            print "Invalid input "
