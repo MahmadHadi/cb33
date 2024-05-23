@@ -26,5 +26,17 @@ void main() {
     //         code 
     //     }
     // }
+
+    if () {
+        printf();
+    } else if () {
+        code 
+    } else if () {
+        code 
+    } else {
+
+    }
+        
+    
     
 }   
