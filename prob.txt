@@ -12,7 +12,7 @@
     // 10, 2, 3 -> 10
 22 may  
     dry run greatest of two nums
-    greatest of two nums using logical operators 
+    greatest of three nums using logical operators 
 
     user -> input (char) 
         input = 0 - 9 -> print "number" 
