@@ -20,3 +20,7 @@
         input = A - Z -> "upper case" 
         else 
             print "Invalid input "
+
+24 may  
+    vowel code using ternary operators
+    greatest of three nums using ternary
