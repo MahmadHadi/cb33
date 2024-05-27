@@ -24,3 +24,7 @@
 24 may  
     vowel code using ternary operators
     greatest of three nums using ternary
+
+27 may
+    print hello world 100 times 
+    
