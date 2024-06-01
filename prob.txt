@@ -28,3 +28,7 @@
 27 may
     print hello world 100 times 
     
+1 june 
+    guessTheNum.c <- appraoch 2 
+
+
