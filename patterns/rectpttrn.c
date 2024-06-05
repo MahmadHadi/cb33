@@ -69,6 +69,89 @@ void main() {
         // count++; // 5 
     }
 
-     printf("\n------------------------\n");    
-    
-} 
+    printf("\n------------------------\n");    
+
+    // * 1 2 3 
+    // * 4 5 6 
+    // * 7 8 9
+    int sum = 1;
+
+    // printf("%d ", sum);
+    // sum++; // 2  
+    // printf("%d ", sum);
+    // sum++; // 3
+    // printf("%d ", sum);
+
+    // printf("\n");
+
+    // sum++; // 4
+    // printf("%d ", sum);
+    // sum++; // 5 
+    // printf("%d ", sum);
+    // sum++; // 6 
+    // printf("%d ", sum);
+
+    // printf("\n");
+
+    // sum++; // 7
+    // printf("%d ", sum);
+    // sum++; // 8
+    // printf("%d ", sum);
+    // sum++; // 9
+    // printf("%d ", sum);
+
+    // printf("\n");
+
+
+    for (int i = 1; i <= 3; i++) {
+        // sum++;   
+        // printf("%d ", sum);
+        // sum++; 
+        // printf("%d ", sum);
+        // sum++;
+        // printf("%d ", sum);
+
+        for (int j = 1; j <= 3; j++) {
+            printf("%d ", sum);
+            sum++;
+        }
+
+        printf("\n");
+    }
+
+
+printf("\n------------------------\n");    
+    sum = 97;
+    for (int i = 1; i <= 3; i++) {
+        // sum++;   
+        // printf("%d ", sum);
+        // sum++; 
+        // printf("%d ", sum);
+        // sum++;
+        // printf("%d ", sum);
+
+        for (int j = 1; j <= 3; j++) {
+            printf("%c ", sum);
+            sum++;
+        }
+        printf("\n");
+    }
+
+    printf("\n------------------------\n");    
+
+    // * * * * 
+    // *     *
+    // *     *   
+    // * * * * 
+
+    for (int i = 1; i <= 3; i++) {
+        for (int j = 1; j <= 3; j++) {
+            if (i == 1 || i == 3 || j == 1 || j == 3) {
+                printf("* ");
+            } else {
+                printf("  ");
+            }
+        }
+        printf("\n");
+    }    
+}
