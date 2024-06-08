@@ -24,26 +24,34 @@ void main() {
         printf("\n");
     }
 }
-for (int i = 1; i <= 3; i++) {
-    for (int j = 3; j >= i; j--) {
-        printf("* ");
-    }
-    printf("\n");
-}
+// for (int i = 1; i <= 3; i++) {
+//     for (int j = 3; j >= i; j--) {
+//         printf("* ");
+//     }
+//     printf("\n");
+// }
 
-i = 1; 1 <= 3 - t 
-    j = 3; 0 >= 1; - t 
+// i = 1; 1 <= 3 - t 
+//     j = 3; 0 >= 1; - t 
+//         print "* "
+//     print "\n"
+
+// i = 2; 2 <= 3 - t 
+//     j = 3; 1 >= 2;
+//         print "* "; 
+//     print "\n"
+
+// i = 3; 3 <= 3 - t 
+//     j = 3; 2 >= 3 - t 
+//         print "* "
+//     print "\n"
+
+// i = 4; 4 <= 3 - false -> loop end 
+
+
+i = 1; 4 <= 3
+    j = 3; 2 >= 3
         print "* "
     print "\n"
 
-i = 2; 2 <= 3 - t 
-    j = 3; 1 >= 2;
-        print "* "; 
-    print "\n"
-
-i = 3; 3 <= 3 - t 
-    j = 3; 2 >= 3 - t 
-        print "* "
-    print "\n"
-
-i = 4; 4 <= 3 - false -> loop end 
+// code 
