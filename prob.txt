@@ -57,3 +57,8 @@
            .
            .
            .
+
+10 june 
+    getProd();
+    getDiv();
+    getSub();
