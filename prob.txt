@@ -62,3 +62,6 @@
     getProd();
     getDiv();
     getSub();
+
+11 june 
+    getCube(int num);
