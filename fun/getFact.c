@@ -1,5 +1,8 @@
 #include <stdio.h>
 int getFact(int num) {
+    if (num == 0 || num == 1) {
+        return 1;
+    } 
     int ans = 1;
     while (num != 0) {
         ans = ans * num;
@@ -37,3 +40,8 @@ int main() {
 
 // ans = ans * num // 120 * 1 = 120
 // num--/ // 0
+
+// 0! = 1
+// 1! = 1 
+
+// -ve = invalid 
