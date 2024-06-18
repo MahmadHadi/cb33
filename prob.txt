@@ -77,3 +77,6 @@
     calcSwitch.c
     checkAge.c
     calc.c
+
+18 june 
+    print all elements of an float, char array 
