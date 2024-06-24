@@ -82,6 +82,7 @@
     print all elements of an float, char array 
 
 19 june 
+     
     product of all elems of an float typed array -> using while loop  
     print product of all odd index elements -> using for loop
     findKey.c -> print first index 
@@ -96,3 +97,9 @@
         i/p ->  int arr[] = {1, 2, 101, 3, 12, 12, 12, -32, -101};
                 int key = 12;
         o/p -> 4
+
+22 june 
+    count occurence of an elem
+        i/p ->  int arr[] = {12, 2, 101, 3, 12, 12, 12, -32, -101};
+                int key = 12;
+        o/p ->  4
