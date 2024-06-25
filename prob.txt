@@ -103,3 +103,6 @@
         i/p ->  int arr[] = {12, 2, 101, 3, 12, 12, 12, -32, -101};
                 int key = 12;
         o/p ->  4
+
+25 june     
+    product of all elements in a 2d array 
