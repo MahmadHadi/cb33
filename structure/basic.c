@@ -3,11 +3,12 @@
 int main() {
 
     struct Student {
-        int rnum; 
-        float pr;
-        char grade;
-        bool isPass;
-    };
+        int rnum; // 4 
+        float pr; // 4 
+        char grade; // 1 
+        bool isPass; // 1 
+    }; // 10 
+
 
     // * struct structName objName; -> to create an object 
     struct Student hadi;
