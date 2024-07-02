@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 int main() {
-    // char ch[] = {'h', 'a', 'd', 'i', 'a', 'b', 'c'};
+    // char ch[] = {'h', 'a', 'd', 'i', 'a', 'b', 'c'}; // set of chars = string 
 
     // for (int i = 0; i < sizeof(ch); i++) {
     //     printf("%c", ch[i]);
@@ -24,7 +24,7 @@ int main() {
     // scanf("%s", &email);
     printf("Enter email : ");
     gets(email); // scanf 
-    // puts("email = ", email);
+    // puts("email = ", email); // error 
     printf("email = %s \n", email);
 
     strcpy(email, "temp12121"); // email = "temp12121";
